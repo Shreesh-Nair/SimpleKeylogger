@@ -7,4 +7,5 @@
 -Create an executable
 -Add more functionality
 -Send info over network
+-Better hiding method
 -etc
